@@ -1,3 +1,5 @@
+![Porfile poster](https://cdn.kruimeltaart.eu/content/web/Github/profile-poster.png)
+
 # Hi there 👋
 I am Thomas, a tech enthusiast from the Netherlands.
 
