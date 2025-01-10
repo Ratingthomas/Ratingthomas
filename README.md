@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 ## 🚀 About Me
 - 🌱 I’m currently learning **Swift**
 - 💬 Ask me about **PHP, Proxmox, and Docker**
-- 👯 I’m the owner of my own company [codestate.nl](codestate.nl)
-- 📫 How to reach me: [codestate.nl/contact](codestate.nl/contact)
+- 👯 I’m the owner of my own company [codestate.nl](https://codestate.nl)
+- 📫 How to reach me: [codestate.nl/contact](https://codestate.nl/contact)
 
 ## 🛠️ Languages and Tools
 <p align="left">
