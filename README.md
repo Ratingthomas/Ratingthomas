@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 - 🌱 I’m currently learning **Swift**
 - 💬 Ask me about **PHP, Proxmox, and Docker**
 - 👯 I’m the owner of my own company [codestate.nl](https://codestate.nl)
-- 📫 How to reach me: [codestate.nl/contact](https://codestate.nl/contact)
+- 📫 How to reach me: [codestate.nl/contact](https://codestate.nl/contact?utm_source=github_profile)
 
 ## 🛠️ Languages and Tools
 <p align="left">
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ratingthomas&theme=youtube-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🔗 Connect with Me
-<a href="https://codestate.nl/contact">
+<a href="https://codestate.nl/contact?utm_source=github_profile">
   <img src="https://img.shields.io/badge/codestate.nl%2Fcontact-8A2BE2?style=for-the-badge" />
 </a>
 
